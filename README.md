@@ -4,7 +4,7 @@ I ran a $2M/month P&L at Uber Chile before I learned to ship code. Now I do both
 
 MBA candidate at IE Business School in Madrid, finishing December 2026. Looking for roles in AI product and operations.
 
-Machines are for speed and repetition. Humans are for story, novelty and meaning. Everything below automates the first so there is more time for the second.
+I automate the repetitive half of a problem so the half that needs judgment gets more room. Every project below is one attempt at drawing that line.
 
 ---
 
