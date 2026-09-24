@@ -17,12 +17,16 @@ I automate the repetitive half of a problem so the half that needs judgment gets
 **[Personal site](https://github.com/sebagarciar/personal-web)** — A CV in long form, English and Spanish. Astro, Markdown content, zero JavaScript shipped.
 `Astro` `TypeScript` `Tailwind`
 
-**[AI Competitive Intelligence Copilot](https://github.com/sebagarciar/ai-competitive-intelligence)** — Tracks luxury fashion brands across public news, video and social sources and turns them into a weekly strategic brief. Multi-source ingestion, semantic deduplication, event classification and burst-based trend detection, with every model running on-device.
-`Python` `Streamlit` `sentence-transformers` `scikit-learn` `Ollama`
-*Runs end to end. Sample data ships with the repo, so the dashboard opens without API keys.*
+**[Olivar Golf Planner](https://github.com/sebagarciar/olivar-golf-planner)** — A single-page app to plan a round at Golf Olivar de la Hinojosa the night before playing. Traces the club's hole guides into a vector course, derives distances from calibrated anchors instead of trusting the drawing's scale, and picks clubs per hole with a caddie that tries every sequence in the bag and keeps the one cheapest in strokes.
+`HTML` `CSS` `JavaScript` `Python`
+*Built 2026-09-24, not yet tested on the course.*
 
 **[Claude Skills](https://github.com/sebagarciar/claude-skills)** — A few Claude Code skills I use day to day, shared as-is: a design system for the finance app, a CV-to-job-ad tailoring tool, and a weekly maintenance pass for my Obsidian vault.
 `Claude Code`
+
+**[AI Competitive Intelligence Copilot](https://github.com/sebagarciar/ai-competitive-intelligence)** — Tracks luxury fashion brands across public news, video and social sources and turns them into a weekly strategic brief. Multi-source ingestion, semantic deduplication, event classification and burst-based trend detection, with every model running on-device.
+`Python` `Streamlit` `sentence-transformers` `scikit-learn` `Ollama`
+*Runs end to end. Sample data ships with the repo, so the dashboard opens without API keys.*
 
 ## Contact
 
